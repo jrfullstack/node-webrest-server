@@ -2,6 +2,7 @@
 /postgres
 /mysql
 /prisma/migrations
+dist/
 
 # dependencies
 /node_modules
